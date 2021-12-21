@@ -1,3 +1,4 @@
+https://blog.csdn.net/bitezijie/article/details/8858620
 find_shape_model (
 Image        //搜索圖像
 ModelID      //模板句柄
